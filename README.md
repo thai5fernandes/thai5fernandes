@@ -2,7 +2,7 @@
 <div>
  <h1 align="center">Oiee 🖐️   Tudo bem?
        
- Eu sou a <a href="https://www.linkedin.com/in/url-thais/">Thaís fernandes 😃️</a>
+ Eu sou a <a href="https://www.linkedin.com/in/url-thais/">Thaís fernandes </a>
    estudante de Enganharia da computação
   </h1>
   
