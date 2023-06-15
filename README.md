@@ -1,16 +1,15 @@
-### Hi there 👋
+##
+<div>
+ <h1 align="center">Oiee 🖐️   Tudo bem?
+       
+ Eu sou a <a href="https://www.linkedin.com/in/url-thais/">Thaís fernandes 😃️</a>
+   estudante de Enganharia da computação
+  </h1>
+  
+📖 Atualmente estudando e aprimorando minhas habilidades na linguagem C e Python.
+  
+🌱 Sou fascinada pelo poder dos dados e seu potencial para impulsionar insights e tomadas de decisão embasadas.
 
-<!--
-**thai5fernandes/thai5fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🤝 Estou aberta a oportunidades de colaboração e aprendizado na área de dados.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔍Buscando construir uma carreira sólida na ciência de dados e explorar novas tecnologias.
