@@ -12,11 +12,7 @@
 
  🤝 Estou aberta a oportunidades de colaboração e aprendizado na área de dados.
 
- 🔍Buscando construir uma carreira sólida na ciência de dados e explorar novas tecnologias.
-##
- 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thai5fernandes&show_icons=true&theme=shadow_red)](https://github.com/thai5fernandes/github-readme-stats#gh-dark-mode-only)
- 
+ 🔍Buscando construir uma carreira sólida na ciência de dados e explorar novas tecnologias. 
 ##
  
  <img align="center" alt="Thais-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
