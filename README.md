@@ -16,12 +16,12 @@
 ##
 <br>
 
-<!-- GITHUB STATUS -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thai5fernandes&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai5fernandes&layout=compact&langs_count=10&theme=neon"/>
 
-  <!-- TEMAS: tranparent, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thai5fernandes&show_icons=true&theme=neon&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai5fernandes&layout=donut&langs_count=5&theme=neon"/>
+
+  
 </div>
 
 <br>   
