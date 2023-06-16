@@ -1,24 +1,32 @@
-##
+
 <div>
- <h1 align="center">Oiee 🖐️   Tudo bem?
+ <h1 align="center">Oiee🖐️
        
  Eu sou a <a href="https://www.linkedin.com/in/url-thais/">Thaís fernandes </a>
    estudante de Enganharia da computação
   </h1>
   
-📖 Atualmente estudando e aprimorando minhas habilidades na linguagem C e Python.
-  
-🌱 Sou fascinada pelo poder dos dados e seu potencial para impulsionar insights e tomadas de decisão embasadas.
+📖 Atualmente estou estudando e aprimorando minhas habilidades na linguagem C e Python.  
+
+ 🌱 Sou fascinada pelo poder dos dados e seu potencial para impulsionar insights e tomadas de decisão embasadas.  
 
  🤝 Estou aberta a oportunidades de colaboração e aprendizado na área de dados.
 
  🔍Buscando construir uma carreira sólida na ciência de dados e explorar novas tecnologias. 
 ##
- 
- <img align="center" alt="Thais-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
- <img align="center" alt="Thais-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+<br>
+
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thai5fernandes&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thai5fernandes&layout=compact&langs_count=10&theme=neon"/>
+
+  <!-- TEMAS: tranparent, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
+
+<br>   
      
-  ##
+##
  
 <div> 
   <a href = "mailto:thaisfa852@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
